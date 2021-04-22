@@ -1,12 +1,6 @@
 # GoSchool-Project-1---Shopping-List-Application
-A shopping list application to store the shopping list of the day
+A shopping list application to store the shopping list of the day. The application implements simple CRUD operations.
 
-The shopping list application contains the following features.
+## Screenshots
 
-- View Entire Shopping List
-- Generate Shopping List Report
-- Add Items Information
-- Modify Existing Items
-- Delete Item from Shopping List
-- Print Current Data Fields
-- Add New Category Name
+<img src="screenshots/shopping_List_Menu.png" alt="Shopping List Menu" width=600px height=500px/>
