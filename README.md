@@ -3,4 +3,4 @@ A shopping list application to store the shopping list of the day. The applicati
 
 ## Screenshots
 
-<img src="screenshots/shopping_List_Menu.png" alt="Shopping List Menu" width=600px height=500px/>
+<img src="screenshots/Shopping_List_Menu.png" alt="Shopping List Menu" width=600px height=500px/>
